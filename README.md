@@ -7,6 +7,6 @@
 ### Y tengo experiencia como:
 🧩️ Diseño de marcas (Branding)
 📜 Diseño publicitario
-📕 Maquetación editorial
+📕 Maquetación y diseño digital
 🤖 Animación de Videos
 📣 Social Media Manager
