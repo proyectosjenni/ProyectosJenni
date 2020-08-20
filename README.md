@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**proyectosjenni/ProyectosJenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hola, bienvenidos 👋
+### Soy una apasionada por las artes gráficas que siempre esta en busca de nuevos retos e inspiración. Actualmente trabajo en:
+🥰️ Diseño de Experiencia de Usuarios UX
+💻 Diseño de Interfaz de Usuarios IU
+💁 Project Manager 
+### Y tengo experiencia como:
+🧩️ Diseño de marcas (Branding)
+📜 Diseño publicitario
+📕 Maquetación editorial
+🤖 Animación de Videos
+📣 Social Media Manager
